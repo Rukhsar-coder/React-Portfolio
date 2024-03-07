@@ -1,0 +1,50 @@
+[
+  {
+    "title": "MERN AI Image Generation App",
+    "imageSrc": "projects/Portfolio6.png",
+    "description": "Revolutionizing Image Generation: Unleashing the Power of MERN Stack and AI",
+    "skills": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "React.js",
+      "Tailwind",
+      "OpenAI's DALL-E model",
+      "Cloudinary"
+    ],
+    "demo": "https://github.com/Rukhsar-coder/Dalle_clone/tree/main",
+    "source": "https://github.com/Rukhsar-coder/Dalle_clone/tree/main"
+  },
+  {
+    "title": "Physio Rehab",
+    "imageSrc": "projects/Portfolio1.png",
+    "description": "web application allows physiotherapists and their patients to have centralized access to a dashboard that facilitates communication.",
+    "skills": ["React", "Express", "Node", "MongoDB", "REST APIs"],
+    "demo": "https://www.linkedin.com/feed/update/urn:li:activity:6890361152673509377/",
+    "source": "https://github.com/Rukhsar-coder/Final_project"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/Portfolio5.png",
+    "description": "Crafted a portfolio using JavaScript, HTML, and CSS featuring both light and dark themes.",
+    "skills": ["HTML", "CSS", "JavaScript(OOP)"],
+    "demo": "https://rukhsar-pathan-portfolio.netlify.app/",
+    "source": "https://github.com/Rukhsar-coder/Portfolio"
+  },
+  {
+    "title": "Camping Website Design",
+    "imageSrc": "projects/Portfolio4.png",
+    "description": "Responsive Camping Website Design Using HTML CSS & JavaScript. Contains animations on images Developed first with the Mobile First methodology, then for desktop with a beautiful and pleasant user interface.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://main--campsite-adventures-website.netlify.app/",
+    "source": "https://github.com/Rukhsar-coder/Camping-Website"
+  },
+  {
+    "title": "Rock Paper Scissors",
+    "imageSrc": "projects/Portfolio3.png",
+    "description": "A fun web game built with JavaScript, HTML and CSS using Object Oriented Programming (OOP).",
+    "skills": ["HTML", "CSS", "JavaScript(OOP)"],
+    "demo": "https://dreamy-shannon-9164d0.netlify.app/",
+    "source": "https://github.com/Rukhsar-coder/Rock-Paper-Scissors"
+  }
+]

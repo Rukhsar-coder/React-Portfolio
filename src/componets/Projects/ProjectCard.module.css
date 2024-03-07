@@ -1,0 +1,101 @@
+@import "../../vars.css";
+.container {
+  display: grid;
+  grid-template-rows: auto auto 1fr auto auto; /* Adjust row sizes as needed */
+  border-radius: 10px;
+  box-shadow: 0 16px 14px #04152d;
+  padding: 18px 24px;
+  background: linear-gradient(180deg, #19376d 80%, rgba(25, 55, 109, 0));
+  max-width: 345px;
+  height: 550px; /* Fixed height for each card */
+  overflow: hidden; /* Hide overflow content */
+  gap: 10px; /* Adjust gap between rows */
+}
+
+.image {
+  max-height: 200px; /* Adjust image height as needed */
+  width: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  margin: 0; /* Remove margin for consistent spacing */
+}
+
+.description {
+  font-size: 16px;
+  font-weight: 400;
+  margin: 0; /* Remove margin for consistent spacing */
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  margin: 0; /* Remove margin for consistent spacing */
+  padding: 0; /* Remove padding for consistent spacing */
+}
+
+.skill {
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: var(--color-dark);
+  padding: 4px 8px;
+  margin: 2px; /* Adjust margin for spacing between skills */
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* .container {
+  display: grid;
+  grid-template-rows: 30% 10% 30% 10% 1;
+  border-radius: 10px;
+  box-shadow: 0 16px 14px #04152d;
+  padding: 18px 24px;
+  background: linear-gradient(180deg, #19376d 80%, rgba(25, 55, 109, 0));
+  max-width: 345px;
+  height: 550px;
+} */
+/* .image {
+  max-height: 100%;
+  width: auto;
+  border-radius: 3%;
+} */
+
+/* .title {
+  font-size: 25px;
+  font-weight: 700;
+}
+.description {
+  font-size: 20px;
+  font-weight: 400;
+}
+.skills {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+} */
+/* .links {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-evenly;
+  cursor: pointer;
+  padding: 10px 0;
+} */
+
+.links a {
+  display: flex;
+  align-items: center;
+}

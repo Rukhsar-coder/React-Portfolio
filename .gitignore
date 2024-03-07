@@ -13,8 +13,9 @@ dist-ssr
 *.local
 
 React Portfolio/assets/
-React Portfolio/public
-React Portfolio\src\data
+React Portfolio/public/
+React Portfolio/src/data/
+
 .eslintrc.cjs
 package-lock.json
 package.json

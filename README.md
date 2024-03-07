@@ -14,7 +14,7 @@ Welcome to my React portfolio! This project showcases my skills and experience i
 
 This portfolio is built using React.js, allowing for a dynamic and interactive user experience. It features a responsive design, making it accessible on various devices and screen sizes.
 
-![Portfolio Screenshot](React Portfolio/assets/Screenshot (4).png)
+![Screenshot (4)](https://github.com/Rukhsar-coder/React-Portfolio/assets/77547142/95d9c311-d34f-43f7-aaee-5d4d86f6d2df)
 
 ## Projects
 

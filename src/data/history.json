@@ -5,33 +5,33 @@
     "startDate": "Apr, 2022",
     "endDate": "Nov 2023",
     "experiences": [
-      "Developed accurate technical documentation to ensure clear understanding of development processes, resulting in an increase in team efficiency by 20%.",
-      "Prioritized workload effectively and managed multiple tasks simultaneously, leading to timely and efficient delivery of projects with a 95% on-time completion rate.",
-      "Collaborated with the Quality Assurance team to ensure optimal user experience and functionality for web design projects, resulting in a 98% client satisfaction rate."
+      "Engineered an educational platform connecting students with tutors, incorporating live chat functionalities and a custom math keyboard, significantly enhancing user interaction and educational support.",
+      "Led the design and implementation of UI/UX improvements, increasing platform engagement by 30%.",
+      "Conducted extensive testing using Cypress, ensuring robust application performance and leading to a 95% bug resolution rate prior to production."
     ],
     "imageSrc": "history/Paper.png"
   },
   {
-    "role": "QA Engineer",
+    "role": "Software Developer ",
     "organisation": "Dawn Info Tek Inc.",
     "startDate": "Mar, 2016",
     "endDate": "Jun, 2018",
     "experiences": [
-      "Developed and executed comprehensive test plans, including unit tests, integration tests, and end-to-end tests, resulting in a 20% increase in software reliability.",
-      "Collaborated with the development team to identify and resolve defects and issues, resulting in a 15% decrease in post-release bug reports.",
-      "Participated in technical discussions to provide valuable feedback on technical solutions for software products, contributing to a 10% improvement in overall product functionality."
+      "Collaborated closely with UI/UX designers and backend developers to enhance financial applications, focusing on automating payment calculations and optimizing the user journey",
+      "Implemented test cases and coordinated with the backend team to ensure accurate data handling, reducing transaction errors by 40%.",
+      "Spearheaded the redevelopment of customer-facing financial assessment tools, improving usability and customer satisfaction scores by 35%."
     ],
     "imageSrc": "history/DawnIcon.png"
   },
   {
-    "role": "QA Engineer",
+    "role": "Junior Software Developer",
     "organisation": "Teleperformance",
     "startDate": "Nov, 2014",
     "endDate": "Jan, 2016",
     "experiences": [
-      "Developed comprehensive test plans to identify and resolve software issues, resulting in a 30% decrease in bug reports from end-users.",
-      "Documented and communicated test results to the software development team, facilitating quicker resolution of bugs and errors by 40%.",
-      "Collaborated with the software development team to implement improvements based on user feedback, leading to a 20% increase in overall user satisfaction."
+      "Developed and maintained the Sling TV app, a multi-channel streaming service platform, enhancing user experience by integrating various international channels into one accessible interface.",
+      "Improved application performance and scalability by implementing dynamic content loading and optimizing server interactions, which reduced buffering time by 25%.",
+      "Collaborated in agile teams to roll out new features, such as package customization options, which increased customer retention by 20%."
     ],
     "imageSrc": "history/netflix.png"
   }
